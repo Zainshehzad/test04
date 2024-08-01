@@ -1,2 +1,2 @@
-"use strict";
+co
 console.log("hello world");
